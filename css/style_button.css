@@ -1,0 +1,56 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.btn_proses{
+	width: 300px;
+	height: 40px;
+	background-color: #667c30;
+	border-radius: 5px;
+	color:white;
+	border: 1px solid #6B8E23;
+	border-width: thin;
+	font-family:sans-serif;
+	font-size:11pt;
+	cursor: pointer;
+	top: 600px;
+	left: 800px;
+}
+
+.btn_proses:hover{
+	background-color: #556B2F;
+	color: white;
+	border: 2px solid #6B8E23;
+
+	font-family:sans-serif;
+	text-decoration:none;
+	cursor: pointer;
+}
+
+.txt{
+	padding-left: 10px;
+	width: 250px;
+	height: 35px;
+	border: 1px solid 	#C1D7C3;
+	border-radius: 5px;
+	border-width: thin;
+	color: grey;
+	background-color: #F4FFF4;
+}
+
+body{
+	background-color: 	#F0FFF0;
+}
+
+.atur{
+	color: #33390d;
+}
+
+textarea{
+	margin-top: 30px;
+	border-radius: 7px;
+	resize: none;
+	width: 800px;
+	height: 800px;
+}
